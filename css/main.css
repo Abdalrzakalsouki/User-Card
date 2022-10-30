@@ -72,6 +72,7 @@ header > .container > .social-links {
 header > .container > .social-links > div > i {
   font-size: 20px;
   margin: 5px 0px 0px 5px;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 420px) {
@@ -194,6 +195,7 @@ section > .container > div:nth-of-type(2) > button {
   align-items: center;
   gap: 5px;
   font-size: 1.5vw;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 400px) {
